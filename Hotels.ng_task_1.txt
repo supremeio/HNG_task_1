@@ -1,1 +1,3 @@
 This is a file to be commited to the repo created for Hotels.ng first task.
+
+Another commit here
